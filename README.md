@@ -22,19 +22,41 @@ BOOK-VERDICT/
 ├── index.html
 │
 ├── css/
-│   └── main.css
+│   ├── main.css
+│   ├── layout.css
+│   ├── windows.css
+│   └── animations.css
 │
 ├── js/
-│   └── app.js
+│   ├── app.js
+│   ├── windows.js
+│   ├── rewards.js
+│   ├── storage.js
+│   └── calendar.js
 │
 ├── assets/
+│   │
 │   ├── images/
-│   └── icons/
+│   │   ├── building.png
+│   │   ├── bookstore-interior.png
+│   │   └── reward-background.png
+│   │
+│   ├── icons/
+│   │   ├── book.svg
+│   │   ├── gift.svg
+│   │   ├── lock.svg
+│   │   └── star.svg
+│   │
+│   └── textures/
+│       ├── paper.jpg
+│       └── stone.jpg
 │
 ├── data/
 │   └── rewards.json
 │
-└── README.md
+├── LICENSE
+├── ARTWORK_LICENSE.txt
+├── README.md
 ```
 
 ## Status
