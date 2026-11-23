@@ -56,7 +56,7 @@ BOOK-VERDICT/
 │
 ├── LICENSE
 ├── ARTWORK_LICENSE.txt
-├── README.md
+└── README.md
 ```
 
 ## Status
