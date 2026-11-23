@@ -1,0 +1,11 @@
+Copyright © 2026 Stefania Petridou
+ 
+All rights reserved.
+ 
+The artwork, illustrations, textures, icons, branding,
+and visual assets contained in this directory are not
+licensed under the GPL.
+ 
+No permission is granted to reproduce, modify,
+redistribute, or create derivative works from these
+assets without prior written permission.
