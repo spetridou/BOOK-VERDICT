@@ -1,4 +1,4 @@
-# BOOK-VERDICT
+# BOOK-VERDICT -ADVENT- CALENDAR
 
 A JavaScript-powered interactive advent calendar featuring a hand-designed bookstore apartment facade with unlockable rewards behind clickable windows.
 
@@ -17,7 +17,7 @@ Users can explore an illustrated stone apartment building, click on its windows,
 ## Project Structure
 
 ```text
-BOOK-VERDICT/
+BOOK-VERDICT-ADVENT-CALENDAR/
 │
 ├── index.html
 │
